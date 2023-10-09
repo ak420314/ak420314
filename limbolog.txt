@@ -1,0 +1,150 @@
+--------- beginning of main
+10-09 17:46:21.849 10087 10087 I libc    : SetHeapTaggingLevel: tag level set to 0
+--------- beginning of system
+10-09 17:46:21.977 10087 10087 E OplusCustomizeRestrictionManager: sInstance is null, start a new sInstance
+10-09 17:46:22.048 10087 10087 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+10-09 17:46:22.048 10087 10087 D OplusInputMethodUtil: init DEBUG to false, update DEBUG_IME to false
+10-09 17:46:22.078 10087 10087 I Quality : ActivityThread: activityStart delay 136 com.limbo.emu.main 10087
+10-09 17:46:22.119 10087 10087 I Quality : Skipped: false 1 cost 20.525824 refreshRate 0 processName com.limbo.emu.main
+10-09 17:46:22.119 10087 10087 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+10-09 17:46:22.139 10087 10087 V ZoomWindowDecorView: setLastReportedMergedConfiguration mZoomDisplayHeight: 1200 getDecorView.70818353
+10-09 17:46:22.451 10087 10087 V ZoomWindowDecorView: setLastReportedMergedConfiguration mZoomDisplayHeight: 1200 getDecorView.173291748
+10-09 17:46:22.582 10087 10087 I Quality : Skipped: false 24 cost 416.20023 refreshRate 0 processName com.limbo.emu.main
+10-09 17:46:22.582 10087 10087 E ActivityThread: asyncReportFrames skippedFrames= 24 true
+10-09 17:46:22.618 10087 10087 V ZoomWindowDecorView: setLastReportedMergedConfiguration mZoomDisplayHeight: 1200 getDecorView.46195465
+10-09 17:46:23.094 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.099 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.116 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.133 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.149 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.166 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:46:23.182 10087 10087 D ViewRootImpl[1]: updatePointerIcon called with position out of bounds
+10-09 17:47:58.966 10087 10101 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 17:47:59.304 10087 10107 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 17:47:59.304 10087 10107 D OpenGLRenderer: endAllActiveAnimators on 0x7d68040600 (RippleDrawable) with handle 0x7dd46e9300
+10-09 17:47:59.309 10087 10087 V AutofillManager: updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+10-09 17:47:59.928 10087 10412 D MachineService: Starting VM: win
+10-09 17:47:59.967 10087 10412 D VMExecutor: Params:
+10-09 17:47:59.967 10087 10412 D VMExecutor: 0: libqemu-system-x86_64.so
+10-09 17:47:59.967 10087 10412 D VMExecutor: 1: -monitor
+10-09 17:47:59.967 10087 10412 D VMExecutor: 2: none
+10-09 17:47:59.967 10087 10412 D VMExecutor: 3: -serial
+10-09 17:47:59.967 10087 10412 D VMExecutor: 4: none
+10-09 17:47:59.967 10087 10412 D VMExecutor: 5: -parallel
+10-09 17:47:59.967 10087 10412 D VMExecutor: 6: none
+10-09 17:47:59.967 10087 10412 D VMExecutor: 7: -k
+10-09 17:47:59.967 10087 10412 D VMExecutor: 8: en-us
+10-09 17:47:59.967 10087 10412 D VMExecutor: 9: -smp
+10-09 17:47:59.967 10087 10412 D VMExecutor: 10: 4
+10-09 17:47:59.967 10087 10412 D VMExecutor: 11: -M
+10-09 17:47:59.967 10087 10412 D VMExecutor: 12: pc
+10-09 17:47:59.967 10087 10412 D VMExecutor: 13: -cpu
+10-09 17:47:59.967 10087 10412 D VMExecutor: 14: qemu32
+10-09 17:47:59.967 10087 10412 D VMExecutor: 15: -m
+10-09 17:47:59.967 10087 10412 D VMExecutor: 16: 2512
+10-09 17:47:59.967 10087 10412 D VMExecutor: 17: -accel
+10-09 17:47:59.967 10087 10412 D VMExecutor: 18: tcg,thread=multi
+10-09 17:47:59.967 10087 10412 D VMExecutor: 19: -drive
+10-09 17:47:59.967 10087 10412 D VMExecutor: 20: index=0,media=disk,file=/content//com.android.externalstorage.documents/document/019F-1300^^^3Aiso^^^2FWINDOWS7PROFESSIONAL32.IMG
+10-09 17:47:59.967 10087 10412 D VMExecutor: 21: -boot
+10-09 17:47:59.967 10087 10412 D VMExecutor: 22: c
+10-09 17:47:59.967 10087 10412 D VMExecutor: 23: -vga
+10-09 17:47:59.967 10087 10412 D VMExecutor: 24: std
+10-09 17:47:59.967 10087 10412 D VMExecutor: 25: -net
+10-09 17:47:59.967 10087 10412 D VMExecutor: 26: user
+10-09 17:47:59.967 10087 10412 D VMExecutor: 27: -net
+10-09 17:47:59.967 10087 10412 D VMExecutor: 28: nic,model=rtl8139
+10-09 17:47:59.967 10087 10412 D VMExecutor: 29: -L
+10-09 17:47:59.967 10087 10412 D VMExecutor: 30: /data/user/0/com.limbo.emu.main/cache/limbo/
+10-09 17:47:59.967 10087 10412 D VMExecutor: 31: -qmp
+10-09 17:47:59.967 10087 10412 D VMExecutor: 32: unix:/data/user/0/com.limbo.emu.main/cache/qmpsocket,server,nowait
+10-09 17:47:59.967 10087 10412 D VMExecutor: 33: -overcommit
+10-09 17:47:59.967 10087 10412 D VMExecutor: 34: mem-lock=off
+10-09 17:47:59.967 10087 10412 D VMExecutor: 35: -rtc
+10-09 17:47:59.967 10087 10412 D VMExecutor: 36: base=localtime
+10-09 17:47:59.967 10087 10412 D VMExecutor: 37: -nodefaults
+10-09 17:47:59.969 10087 10412 V vm-executor-jni.cpp: Processing params
+10-09 17:47:59.969 10087 10412 D vm-executor-jni.cpp: Starting VM...
+10-09 17:47:59.969 10087 10412 V vm-executor-jni.cpp: Loading lib: /data/app/~~EpKT1rXCG-16Qtvh5_S3JQ==/com.limbo.emu.main-2gBMzgoTd00A4AM3Ok91IA==/lib/arm64/libqemu-system-x86_64.so
+10-09 17:47:59.970 10087 10412 V vm-executor-jni.cpp: Loading symbol main...
+10-09 17:47:59.972 10087 10412 D limbo_compat_filesystem.c: Closing fd: 111
+10-09 17:47:59.988 10087 10412 W limbo_compat_filesystem.c: Could not fopen: /data/user/0/com.limbo.emu.main/cache/limbo//usr/local/etc/qemu/qemu.conf, r, 0x0
+10-09 17:48:00.025 10087 10427 D FileUtils: Opening Content Uri: content://com.android.externalstorage.documents/document/019F-1300%3Aiso%2FWINDOWS7PROFESSIONAL32.IMG, FD: 129
+10-09 17:48:00.032 10087 10412 D limbo_compat_filesystem.c: Closing fd: 129
+10-09 17:48:00.045 10087 10429 D FileUtils: Opening Content Uri: content://com.android.externalstorage.documents/document/019F-1300%3Aiso%2FWINDOWS7PROFESSIONAL32.IMG, FD: 129
+10-09 17:48:00.046 10087 10412 D limbo_compat_filesystem.c: Closing fd: 124
+10-09 17:48:00.056 10087 10431 D FileUtils: Opening Content Uri: content://com.android.externalstorage.documents/document/019F-1300%3Aiso%2FWINDOWS7PROFESSIONAL32.IMG, FD: 143
+10-09 17:48:00.307 10087 10433 D FileUtils: Opening Content Uri: content://com.android.externalstorage.documents/document/019F-1300%3Aiso%2FWINDOWS7PROFESSIONAL32.IMG, FD: 146
+10-09 17:48:00.308 10087 10412 D limbo_compat_filesystem.c: Closing fd: 143
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: libqemu-system-x86_64.so:
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h:  -accel
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h:  tcg,thread=multi
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: : 
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: warning: 
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: Guest expects a stronger memory ordering than the host provides
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: 
+10-09 17:48:00.325 10087 10412 E limbo_logutils.h: This may cause strange/hard to debug errors
+10-09 17:48:00.352 10087 10412 D limbo_compat_filesystem.c: Closing fd: 145
+10-09 17:48:00.359 10087 10412 D limbo_compat_filesystem.c: Closing fd: 148
+10-09 17:48:00.363 10087 10412 D limbo_compat_filesystem.c: Closing fd: 150
+10-09 17:48:00.376 10087 10412 D limbo_compat_filesystem.c: Closing fd: 155
+10-09 17:48:00.385 10087 10412 D limbo_compat_filesystem.c: Closing fd: 156
+10-09 17:48:00.398 10087 10412 D limbo_compat_filesystem.c: Closing fd: 157
+10-09 17:48:00.408 10087 10412 D limbo_compat_filesystem.c: Closing fd: 158
+10-09 17:48:00.431 10087 10412 I sdl2.c  : Setting SDL_HINT_RENDER_SCALE_QUALITY to 1, code = 1
+10-09 17:48:00.445 10087 10412 E libEGL  : validate_display:537 error 3008 (EGL_BAD_DISPLAY)
+10-09 17:48:00.446 10087 10412 V SDL     : setOrientation() orientation=-1 width=640 height=480 resizable=true hint=
+10-09 17:48:00.485 10087 10101 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+10-09 17:48:00.485 10087 10449 D LimboSDLActivity: VM resolution changed to 640x480
+10-09 17:48:00.495 10087 10450 D LimboSDLActivity: Requesting fullscreen
+10-09 17:48:00.610 10087 10451 D LimboSDLActivity: VM resolution changed to 720x400
+10-09 17:48:00.611 10087 10452 D LimboSDLActivity: Requesting fullscreen
+10-09 17:48:00.894 10087 10087 D OplusScrollToTopManager: unregisterGuidePopupDismissReceiverInSystemUI
+10-09 17:48:00.894 10087 10087 D OplusScrollToTopManager: Receiver not registered: android.view.OplusScrollToTopManager$1@732c0f7
+10-09 17:48:00.895 10087 10087 D OplusScrollToTopManager: unregisterSystemUIBroadcastReceiver 
+10-09 17:48:00.895 10087 10087 D OplusScrollToTopManager: java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@d719b64
+10-09 17:48:00.895 10087 10087 V ZoomWindowDecorView: removeZoomView
+10-09 17:48:00.897 10087 10107 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+10-09 17:48:00.930 10087 10087 I Quality : Skipped: false 1 cost 30.83034 refreshRate 0 processName com.limbo.emu.main
+10-09 17:48:00.930 10087 10087 E ActivityThread: asyncReportFrames skippedFrames= 1 true
+10-09 17:48:01.589 10087 10453 D LimboSDLActivity: VM resolution changed to 1024x768
+10-09 17:48:01.590 10087 10454 D LimboSDLActivity: Requesting fullscreen
+10-09 17:48:14.001 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:48:14.005 10087 10087 W ViewRootImpl[LimboEmuActivity]: Cancelling event (window is stopped):MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=880.6573, y[0]=355.9122, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=201342804, downTime=201327207, deviceId=198, source=0x2002, displayId=0, eventId=2016067900 }
+10-09 17:48:14.005 10087 10087 W ViewRootImpl[LimboEmuActivity]: Cancelling event (window is stopped):MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=880.6573, y[0]=355.9122, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=201342804, downTime=201327207, deviceId=198, source=0x2002, displayId=0, eventId=2016067900 }
+10-09 17:48:14.005 10087 10087 W ViewRootImpl[LimboEmuActivity]: Cancelling event (window is stopped):MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=880.6573, y[0]=355.9122, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=201342804, downTime=201327207, deviceId=198, source=0x2002, displayId=0, eventId=2016067900 }
+10-09 17:48:14.005 10087 10087 W ViewRootImpl[LimboEmuActivity]: Cancelling event (window is stopped):MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=880.6573, y[0]=355.9122, toolType[0]=TOOL_TYPE_MOUSE, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=201342804, downTime=201327207, deviceId=198, source=0x2002, displayId=0, eventId=2016067900 }
+10-09 17:48:14.027 10087 10467 D LimboSDLActivity: VM resolution changed to 640x480
+10-09 17:48:14.028 10087 10468 D LimboSDLActivity: Requesting fullscreen
+10-09 17:48:45.875 10087 11570 D LimboSDLActivity: VM resolution changed to 1920x1080
+10-09 17:48:45.876 10087 11571 D LimboSDLActivity: Requesting fullscreen
+10-09 17:48:49.680 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:49:54.988 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:49:59.138 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:50:18.505 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:50:25.038 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:50:27.605 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:50:29.165 10087 10412 D limbo_compat_filesystem.c: Closing fd: 149
+10-09 17:50:29.196 10087 10412 D limbo_compat_filesystem.c: Closing fd: 136
+10-09 17:50:29.260 10087 10412 D limbo_compat_filesystem.c: Closing fd: 160
+10-09 17:50:29.824 10087 10412 D limbo_compat_filesystem.c: Closing fd: 141
+10-09 17:50:29.886 10087 10412 D limbo_compat_filesystem.c: Closing fd: 177
+10-09 17:50:29.971 10087 10412 D limbo_compat_filesystem.c: Closing fd: 182
+10-09 17:50:30.167 10087 10412 D limbo_compat_filesystem.c: Closing fd: 167
+10-09 17:50:31.162 10087 10087 V AutofillManager: requestHideFillUi(null): anchor = null
+10-09 17:51:04.908 10087 10412 D limbo_compat_filesystem.c: Closing fd: 168
+10-09 17:51:04.992 10087 10412 D limbo_compat_filesystem.c: Closing fd: 170
+10-09 17:51:08.953 10087 10436 D limbo_compat_filesystem.c: Closing fd: 197
+10-09 17:51:08.969 10087 10436 D limbo_compat_filesystem.c: Closing fd: 193
+10-09 17:51:08.978 10087 10436 D limbo_compat_filesystem.c: Closing fd: 191
+10-09 17:51:09.023 10087 10437 D limbo_compat_filesystem.c: Closing fd: 205
+10-09 17:51:11.152 10087 10436 D limbo_compat_filesystem.c: Closing fd: 189
+10-09 17:51:11.177 10087 10437 D limbo_compat_filesystem.c: Closing fd: 207
+10-09 17:51:11.188 10087 10412 D limbo_compat_filesystem.c: Closing fd: 171
+10-09 17:51:11.217 10087 10412 D limbo_compat_filesystem.c: Closing fd: 192
+10-09 17:51:12.777 10087 10412 D limbo_compat_filesystem.c: Closing fd: 185
+10-09 17:51:12.817 10087 10412 D limbo_compat_filesystem.c: Closing fd: 195
+10-09 17:51:12.854 10087 10412 D limbo_compat_filesystem.c: Closing fd: 194
+10-09 17:51:12.911 10087 10412 D limbo_compat_filesystem.c: Closing fd: 186
+10-09 17:51:16.033 10087 10412 D limbo_compat_filesystem.c: Closing fd: 190
+10-09 17:51:16.094 10087 10412 D limbo_compat_filesystem.c: Closing fd: 202
